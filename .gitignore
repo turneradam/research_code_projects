@@ -1,0 +1,6 @@
+*.sh
+*.csv
+*.DS_Store
+*.swp
+*.pyc
+*.txt
